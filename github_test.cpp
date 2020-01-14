@@ -11,6 +11,7 @@ int main(int argc, char **argv) {
   cout << "What is your name?" << endl;
   cin >> name;
   cout << "Welcome, " << name << "!" << endl;
+  cout << "Goodbye." << endl;
 
   return 0;
 }
